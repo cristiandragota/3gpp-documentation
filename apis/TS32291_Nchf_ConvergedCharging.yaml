@@ -2428,7 +2428,7 @@ components:
             - SCEF
             - IWK_SCEF
             - IMS_GWF
-         - type: string
+        - type: string
     RoleOfIMSNode:
       anyOf:
         - type: string
